@@ -1,1 +1,2 @@
 # An-lise-de-dados-TelecomX
+Este projeto tem como objetivo analisar a evasão de clientes da Telecom X utilizando dados extraídos de uma API. Ao longo do notebook, os dados foram organizados, tratados e analisados para entender o comportamento dos clientes e identificar padrões relacionados ao churn. A análise exploratória ajudou a gerar insights importantes que podem apoiar estratégias de retenção e melhoria dos serviços oferecidos.
